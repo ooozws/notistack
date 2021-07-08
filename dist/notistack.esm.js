@@ -4,6 +4,7 @@ import clsx from 'clsx';
 import Slide from '@material-ui/core/Slide';
 import { createStyles, emphasize } from '@material-ui/core/styles';
 import { withStyles, makeStyles } from '@material-ui/styles';
+import Collapse from '@material-ui/core/Collapse';
 import SvgIcon from '@material-ui/core/SvgIcon';
 import ClickAwayListener from '@material-ui/core/ClickAwayListener';
 import hoistNonReactStatics from 'hoist-non-react-statics';

@@ -11,6 +11,7 @@ var clsx = _interopDefault(require('clsx'));
 var Slide = _interopDefault(require('@material-ui/core/Slide'));
 var styles$2 = require('@material-ui/core/styles');
 var styles$3 = require('@material-ui/styles');
+var Collapse = _interopDefault(require('@material-ui/core/Collapse'));
 var SvgIcon = _interopDefault(require('@material-ui/core/SvgIcon'));
 var ClickAwayListener = _interopDefault(require('@material-ui/core/ClickAwayListener'));
 var hoistNonReactStatics = _interopDefault(require('hoist-non-react-statics'));
